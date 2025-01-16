@@ -57,13 +57,13 @@ I am passionate about web development, data science, and exploring new technolog
 </p>
 
 ---
-
 ## 📊 **GitHub Stats**  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanka-paul&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-paul&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-paul&theme=dark&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanka1144&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka1144&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka1144&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" />
 </p>
+
 
 ---
 ## 🖌️ **Design & Creativity**  
@@ -82,18 +82,9 @@ I am passionate about web development, data science, and exploring new technolog
 - Build real-world applications using **MERN Stack**.
 
 
----
-
-## 🎯 **Current Goals**  
-- Advance in **JavaScript and Full-Stack Development**.  
-- Participate in open-source projects and contribute to the community.  
-- Build real-world applications using **MERN Stack**.
-
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=priyanka-paul&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ---
-
-**Proudly created with ❤️ by Priyanka Paul**
