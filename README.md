@@ -1,7 +1,6 @@
 # Hi 👋, I'm Priyanka Paul  
 ## 🌟 A Passionate Developer & Learner  
-
-As-salamu alaykum! I'm Priyanka Paul, a student and aspiring developer from Bangladesh. Currently, I am pursuing a **B.Sc. in Computer Science and Engineering (CSE)** at **Pundra University of Science and Technology**.  
+I'm Priyanka Paul, a student and aspiring developer from Bangladesh. Currently, I am pursuing a **B.Sc. in Computer Science and Engineering (CSE)** at **Pundra University of Science and Technology**.  
 
 I am passionate about web development, data science, and exploring new technologies. My current focus is on mastering JavaScript and enhancing my problem-solving skills.
 
