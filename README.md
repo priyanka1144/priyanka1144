@@ -1,12 +1,14 @@
 # Hi 👋, I'm Priyanka Paul  
 ## 🌟 A Passionate Developer & Learner  
-I'm Priyanka Paul, a student and aspiring developer from Bangladesh. Currently, I am pursuing a **B.Sc. in Computer Science and Engineering (CSE)** at **Pundra University of Science and Technology**.  
 
-I am passionate about web development, data science, and exploring new technologies. My current focus is on mastering JavaScript and enhancing my problem-solving skills.
+I am Priyanka Paul, a student and aspiring developer from Bangladesh.  
+Currently, I am pursuing a **B.Sc. in Computer Science and Engineering (CSE)** at **Pundra University of Science and Technology**.
+
+I am passionate about web development, data science, and exploring new technologies. My current focus is on mastering **JavaScript** and enhancing my problem-solving skills.
 
 ---
 
-## 🌱 **About Me**
+## 🌱 **About Me**  
 - 🔭 Currently working on enhancing **Computer Skills**.  
 - 🌱 Learning **JavaScript** and diving into **Full-Stack Development**.  
 - 💬 Ask me about **C, Java, HTML, CSS, MySQL, MongoDB**.  
@@ -14,24 +16,24 @@ I am passionate about web development, data science, and exploring new technolog
 
 ---
 
-## 🛠 **Skills**
-### 🖥️ Programming Languages
+## 🛠 **Skills**  
+### 🖥️ Programming Languages  
 - **C**  
 - **Java**  
 - **JavaScript**  
 - **Python**  
 
-### 🌐 Frontend Development
+### 🌐 Frontend Development  
 - **HTML5**  
 - **CSS3**  
 - **JavaScript**  
 - **Bootstrap**  
 
-### 💾 Databases
+### 💾 Databases  
 - **MySQL**  
 - **MongoDB**  
 
-### ⚙️ Tools & Frameworks
+### ⚙️ Tools & Frameworks  
 - **Git**  
 - **Netlify**  
 - **Vercel**  
@@ -49,7 +51,7 @@ I am passionate about web development, data science, and exploring new technolog
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub Stats**  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=priyanka-paul&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-paul&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br/>
@@ -58,21 +60,21 @@ I am passionate about web development, data science, and exploring new technolog
 
 ---
 
-## 🏆 **GitHub Trophies**
+## 🏆 **GitHub Trophies**  
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=priyanka-paul&theme=onedark&no-frame=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🖌️ **Design & Creativity**
+## 🖌️ **Design & Creativity**  
 - **Adobe Photoshop**  
 - **Adobe Illustrator**  
 - **Canva**  
 
 ---
 
-## 🎯 **Current Goals**
+## 🎯 **Current Goals**  
 - Advance in **JavaScript and Full-Stack Development**.  
 - Participate in open-source projects and contribute to the community.  
 - Build real-world applications using **MERN Stack**.  
