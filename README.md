@@ -73,18 +73,20 @@ I am passionate about web development, data science, and exploring new technolog
 </p>
 
 ---
-
 ## 🖌️ **Design & Creativity**  
-- **Adobe Photoshop**  
-- **Adobe Illustrator**  
-- **Canva**  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="30" height="30"/>
+</p>
 
 ---
 
 ## 🎯 **Current Goals**  
 - Advance in **JavaScript and Full-Stack Development**.  
 - Participate in open-source projects and contribute to the community.  
-- Build real-world applications using **MERN Stack**.  
+- Build real-world applications using **MERN Stack**.
+
 
 ---
 
