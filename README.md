@@ -66,19 +66,21 @@ I am passionate about web development, data science, and exploring new technolog
 </p>
 
 ---
-
-## 🏆 **GitHub Trophies**  
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanka-paul&theme=onedark&no-frame=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
 ## 🖌️ **Design & Creativity**  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30"/>
 </p>
+
+---
+
+## 🎯 **Current Goals**  
+- Advance in **JavaScript and Full-Stack Development**.  
+- Participate in open-source projects and contribute to the community.  
+- Build real-world applications using **MERN Stack**.
+
 
 ---
 
