@@ -15,29 +15,29 @@ I am passionate about web development, data science, and exploring new technolog
 - 📫 Reach me at: **priyanka.paul.cse.pub@gmail.com**
 
 ---
-
 ## 🛠 **Skills**  
 ### 🖥️ Programming Languages  
-- **C**  
-- **Java**  
-- **JavaScript**  
-- **Python**  
+- ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) **C**  
+- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) **Java**  
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) **JavaScript**  
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) **Python**  
 
 ### 🌐 Frontend Development  
-- **HTML5**  
-- **CSS3**  
-- **JavaScript**  
-- **Bootstrap**  
+- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) **HTML5**  
+- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) **CSS3**  
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) **JavaScript**  
+- ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg) **Bootstrap**  
 
 ### 💾 Databases  
-- **MySQL**  
-- **MongoDB**  
+- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) **MySQL**  
+- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) **MongoDB**  
 
 ### ⚙️ Tools & Frameworks  
-- **Git**  
-- **Netlify**  
-- **Vercel**  
-- **Figma**  
+- ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) **Git**  
+- ![Netlify](https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg) **Netlify**  
+- ![Vercel](https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg) **Vercel**  
+- ![Figma](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg) **Figma**  
+ 
 
 ---
 
