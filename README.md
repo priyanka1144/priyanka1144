@@ -12,7 +12,7 @@ I am passionate about web development, data science, and exploring new technolog
 - 🔭 Currently working on enhancing **Computer Skills**.  
 - 🌱 Learning **JavaScript** and diving into **Full-Stack Development**.  
 - 💬 Ask me about **C, Java, HTML, CSS, MySQL, MongoDB**.  
-- 📫 Reach me at: **priyanka.paul.cse.pub@gmail.com**
+- 📫 Reach me at: **806priyankapaul@gmail.com**
 
 ---
 ## 🛠 **Skills**  
