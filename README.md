@@ -15,6 +15,19 @@ I am passionate about web development, data science, and exploring new technolog
 - 📫 Reach me at: **806priyankapaul@gmail.com**
 
 ---
+
+## 🌐 **Connect with Me**  
+<p align="left">
+  <a href="https://github.com/priyanka-paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/priyanka-paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/priyanka.paul.714095" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/priyanka.paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://twitter.com/priyanka_paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+ 
+</p>
+
+
+---
 ## 🛠 **Skills**  
 ### 🖥️ Programming Languages  
 <p align="left">
@@ -48,18 +61,6 @@ I am passionate about web development, data science, and exploring new technolog
 
 ---
 
-## 🌐 **Connect with Me**  
-<p align="left">
-  <a href="https://github.com/priyanka-paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/priyanka-paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/priyanka.paul.714095" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/priyanka.paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://twitter.com/priyanka_paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
- 
-</p>
-
-
----
 ## 🖌️ **Design & Creativity**  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="30" height="30"/>
@@ -67,6 +68,14 @@ I am passionate about web development, data science, and exploring new technolog
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30"/>
 </p>
+
+---
+## 🎯 **Current Goals**  
+- Advance in **JavaScript and Full-Stack Development**.  
+- Participate in open-source projects and contribute to the community.  
+- Build real-world applications using **MERN Stack**.
+
+
 
 ---
 
@@ -80,14 +89,7 @@ I am passionate about web development, data science, and exploring new technolog
 
 ---
 
-## 🎯 **Current Goals**  
-- Advance in **JavaScript and Full-Stack Development**.  
-- Participate in open-source projects and contribute to the community.  
-- Build real-world applications using **MERN Stack**.
 
-
-
----
 
 [![](https://visitcount.itsvg.in/api?id=priyanka-paul&icon=5&color=0)](https://visitcount.itsvg.in)
 
