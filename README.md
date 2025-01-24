@@ -55,16 +55,7 @@ I am passionate about web development, data science, and exploring new technolog
   <a href="https://www.facebook.com/priyanka.paul.714095" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
   <a href="https://www.instagram.com/priyanka.paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
   <a href="https://twitter.com/priyanka_paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="mailto:806priyankapaul@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
-</p>
-
-
----
-## 📊 **GitHub Stats**  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanka1144&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka1144&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka1144&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" />
+ 
 </p>
 
 
@@ -76,6 +67,16 @@ I am passionate about web development, data science, and exploring new technolog
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30"/>
 </p>
+
+---
+
+## 📊 **GitHub Stats**  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanka1144&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka1144&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka1144&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" />
+</p>
+
 
 ---
 
