@@ -7,7 +7,9 @@
 I am Priyanka Paul, a student and aspiring developer from Bangladesh.  
 Currently, I am pursuing a **B.Sc. in Computer Science and Engineering (CSE)** at **Pundra University of Science and Technology**.
 
-I am passionate about web development, data science, and exploring new technologies. My current focus is on mastering **JavaScript** and enhancing my problem-solving skills.
+I have hands-on experience working with programming languages such as Python, Java, and C++, and I'm proficient in managing data using MySQL. My technical toolkit includes a range of powerful libraries and frameworks like TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Keras, and PyTorch, which I use to explore and solve real-world problems through data-driven solutions.
+
+My goal is to continue developing intelligent systems that can learn, adapt, and bring meaningful insights from complex data. I'm excited to collaborate, learn, and contribute to impactful AI and data science projects
 
 ---
 
