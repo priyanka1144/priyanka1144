@@ -2,7 +2,7 @@
 # Hi 👋, I'm Priyanka Paul  
 ## 🌟 A Passionate Developer & Learner 
 
-<img align="right" alt="coding" width="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"> 
+<img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"> 
 
 I am Priyanka Paul, a student and aspiring developer from Bangladesh.  
 Currently, I am pursuing a **B.Sc. in Computer Science and Engineering (CSE)** at **Pundra University of Science and Technology**.
