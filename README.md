@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAGjq7tgHDo/ImoV7K0eqoYu71mOj9QUOg/view?utm_content=DAGjq7tgHDo&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel)
+![logo](https://github.com/priyanka1144/priyanka1144/blob/main/2.jpg)
 # Hi 👋, I'm Priyanka Paul  
 ## 🌟 A Passionate Developer & Learner 
 
