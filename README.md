@@ -1,4 +1,4 @@
-![logo](https://github.com/arafat17469/arafat17469/blob/main/2.jpg)
+![logo](https://github.com/arafat17469/arafat17469/blob/main/Priya.jpg.jpg)
 
 # Hi 👋, I'm Priyanka Paul  
 ## 🌟 A Passionate Developer & Learner 
