@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/priyanka1144/priyanka1144/main/Priya_jpg.jpg" width="100%" />
+![logo](https://github.com/arafat17469/arafat17469/blob/main/2.jpg)
+
 # Hi 👋, I'm Priyanka Paul  
 ## 🌟 A Passionate Developer & Learner 
 
