@@ -1,4 +1,4 @@
-![logo](https://github.com/priyanka1144/priyanka1144/blob/main/Priya.jpg.jpg)
+![logo](https://github.com/priyanka1144/priyanka1144/blob/main/p.png)
 
 # Hi 👋, I'm Priyanka Paul  
 ## 🌟 A Passionate Developer & Learner 
