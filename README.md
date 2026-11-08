@@ -1,15 +1,14 @@
-![logo](https://github.com/priyanka1144/priyanka1144/blob/main/2.jpg)
+![logo](https://github.com/priyanka1144/priyanka1144/blob/main/Priya.jpg)
 # Hi 👋, I'm Priyanka Paul  
 ## 🌟 A Passionate Developer & Learner 
 
 <img align="right" alt="coding" width="350" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"> 
 
-I am Priyanka Paul, a student and aspiring developer from Bangladesh.  
-Currently, I am pursuing a **B.Sc. in Computer Science and Engineering (CSE)** at **Pundra University of Science and Technology**.
+I am a Computer Science and Engineering (CSE) student at Pundra University of Science and Technology (PUB), Bogra, Bangladesh, and an aspiring Machine Learning researcher.
 
-I have hands-on experience working with programming languages such as Python, Java, and C++, and I'm proficient in managing data using MySQL. My technical toolkit includes a range of powerful libraries and frameworks like TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Keras, and PyTorch, which I use to explore and solve real-world problems through data-driven solutions.
+I am passionate about Machine Learning, Quantum Machine Learning, Explainable AI (XAI), Cybersecurity and Computer Vision. My research focuses on quantum-classical hybrid models for Industrial IoT (IIoT) intrusion detection, with explainability as a core goal. My work covers data preprocessing, model training, benchmarking, evaluation and interpretation of results.
 
-My goal is to continue developing intelligent systems that can learn, adapt, and bring meaningful insights from complex data. I'm excited to collaborate, learn, and contribute to impactful AI and data science projects.
+My technical foundation includes Python, data structures, and machine learning pipelines. I work with classification, regression, clustering, deep learning and model evaluation techniques, along with full-stack web development (MERN / Next.js).
 
 ---
 
@@ -21,68 +20,91 @@ My goal is to continue developing intelligent systems that can learn, adapt, and
 
 ---
 
-## 🌐 **Connect with Me**  
-<p align="left">
-  <a href="https://github.com/priyanka-paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/priyanka-paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/priyanka.paul.714095" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/priyanka.paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://twitter.com/priyanka_paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
- 
-</p>
+## 🌐 Connect with Me
 
-
----
-## 🛠 **Skills**  
-### 🖥️ Programming Languages  
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/>  
-</p>
-
-### 🌐 Frontend Development  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/>  
-</p>
-
-### 💾 Databases  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" height="30"/>  
-</p>
-
-### ⚙️ Tools & Frameworks  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30"/>  
+  <a href="https://www.linkedin.com/in/arafat1746"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
+  <a href="https://www.kaggle.com/arafat1746"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="30"/></a>
+  <a href="https://wa.me/+8801726847950"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30"/></a>
+  <a href="https://t.me/arafat1746"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30"/></a>
 </p>
 
 ---
 
-## 🖌️ **Design & Creativity**  
+# 💻 Tech Stack
+
+## 🖥️ Programming Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="35"/>
 </p>
 
 ---
-## 🎯 **Current Goals**  
-- Advance in **JavaScript and Full-Stack Development**.  
-- Participate in open-source projects and contribute to the community.  
-- Build real-world applications using **MERN Stack**.
 
-
+## 🌐 Front-End Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35"/>
+</p>
 
 ---
+
+## 🔧 Tools & Frameworks
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)
+
+---
+
+## ☁️ Hosting, Deployment & MLOps
+![Netlify](https://img.shields.io/badge/netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7) 
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+---
+
+## 🤖 AI Engineering & LLM Tools
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/GPT%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Blue?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector%20Databases-5A45FF?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20Systems-FF6F00?style=for-the-badge)
+
+---
+
+## 💾 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-0000FF?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🖌️ Design & Prototyping
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 Data Analysis & Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-35004B?style=for-the-badge&logo=seaborn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
 
 ## 📊 **GitHub Stats**  
 <p align="left">
@@ -93,208 +115,18 @@ My goal is to continue developing intelligent systems that can learn, adapt, and
 
 
 ---
+## 🏆 GitHub Trophies
+![Trophies](https://github-trophies.vercel.app/?username=arafat17469&theme=radical)
+
+---
+
+<div align="center">
+  <p>Made with ❤️ by <a href="(https://priyanka-portfolio-pp.netlify.app/)">Priyanka Paul</a></p>
+</div>
+
 
 
 
 [![](https://visitcount.itsvg.in/api?id=priyanka-paul&icon=5&color=0)](https://visitcount.itsvg.in)
 
-
-# Hi 👋, I'm Priyanka Paul  
-## 🌟 A Passionate Developer & Learner 
-
-<img align="right" alt="coding" width="350" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"> 
-
-I am Priyanka Paul, a student and aspiring developer from Bangladesh.  
-Currently, I am pursuing a **B.Sc. in Computer Science and Engineering (CSE)** at **Pundra University of Science and Technology**.
-
-I have hands-on experience working with programming languages such as Python, Java, and C++, and I'm proficient in managing data using MySQL. My technical toolkit includes a range of powerful libraries and frameworks like TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Keras, and PyTorch, which I use to explore and solve real-world problems through data-driven solutions.
-
-My goal is to continue developing intelligent systems that can learn, adapt, and bring meaningful insights from complex data. I'm excited to collaborate, learn, and contribute to impactful AI and data science projects.
-
----
-
-## 🌱 **About Me**  
-- 🔭 Currently working on enhancing **Computer Skills**.  
-- 🌱 Learning **JavaScript** and diving into **Full-Stack Development**.  
-- 💬 Ask me about **C, Java, HTML, CSS, MySQL, MongoDB**.  
-- 📫 Reach me at: **806priyankapaul@gmail.com**
-
----
-
-## 🌐 **Connect with Me**  
-<p align="left">
-  <a href="https://github.com/priyanka-paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/priyanka-paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/priyanka.paul.714095" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/priyanka.paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://twitter.com/priyanka_paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
- 
-</p>
-
-
----
-## 🛠 **Skills**  
-### 🖥️ Programming Languages  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/>  
-</p>
-
-### 🌐 Frontend Development  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/>  
-</p>
-
-### 💾 Databases  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" height="30"/>  
-</p>
-
-### ⚙️ Tools & Frameworks  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30"/>  
-</p>
-
----
-
-## 🖌️ **Design & Creativity**  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30"/>
-</p>
-
----
-## 🎯 **Current Goals**  
-- Advance in **JavaScript and Full-Stack Development**.  
-- Participate in open-source projects and contribute to the community.  
-- Build real-world applications using **MERN Stack**.
-
-
-
----
-
-## 📊 **GitHub Stats**  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanka1144&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka1144&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka1144&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" />
-</p>
-
-
----
-
-
-
-[![](https://visitcount.itsvg.in/api?id=priyanka-paul&icon=5&color=0)](https://visitcount.itsvg.in)
-
-)
-# Hi 👋, I'm Priyanka Paul  
-## 🌟 A Passionate Developer & Learner 
-
-<img align="right" alt="coding" width="350" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"> 
-
-I am Priyanka Paul, a student and aspiring developer from Bangladesh.  
-Currently, I am pursuing a **B.Sc. in Computer Science and Engineering (CSE)** at **Pundra University of Science and Technology**.
-
-I have hands-on experience working with programming languages such as Python, Java, and C++, and I'm proficient in managing data using MySQL. My technical toolkit includes a range of powerful libraries and frameworks like TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Keras, and PyTorch, which I use to explore and solve real-world problems through data-driven solutions.
-
-My goal is to continue developing intelligent systems that can learn, adapt, and bring meaningful insights from complex data. I'm excited to collaborate, learn, and contribute to impactful AI and data science projects.
-
----
-
-## 🌱 **About Me**  
-- 🔭 Currently working on enhancing **Computer Skills**.  
-- 🌱 Learning **JavaScript** and diving into **Full-Stack Development**.  
-- 💬 Ask me about **C, Java, HTML, CSS, MySQL, MongoDB**.  
-- 📫 Reach me at: **806priyankapaul@gmail.com**
-
----
-
-## 🌐 **Connect with Me**  
-<p align="left">
-  <a href="https://github.com/priyanka-paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/priyanka-paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/priyanka.paul.714095" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/priyanka.paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://twitter.com/priyanka_paul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
- 
-</p>
-
-
----
-## 🛠 **Skills**  
-### 🖥️ Programming Languages  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/>  
-</p>
-
-### 🌐 Frontend Development  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/>  
-</p>
-
-### 💾 Databases  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" height="30"/>  
-</p>
-
-### ⚙️ Tools & Frameworks  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="30" height="30"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30"/>  
-</p>
-
----
-
-## 🖌️ **Design & Creativity**  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30"/>
-</p>
-
----
-## 🎯 **Current Goals**  
-- Advance in **JavaScript and Full-Stack Development**.  
-- Participate in open-source projects and contribute to the community.  
-- Build real-world applications using **MERN Stack**.
-
-
-
----
-
-## 📊 **GitHub Stats**  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanka1144&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka1144&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka1144&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" />
-</p>
-
-
----
-
-
-
-[![](https://visitcount.itsvg.in/api?id=priyanka-paul&icon=5&color=0)](https://visitcount.itsvg.in)
 
