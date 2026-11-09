@@ -11,13 +11,6 @@ I am passionate about Machine Learning, Quantum Machine Learning, Explainable AI
 
 My technical foundation includes Python, data structures, and machine learning pipelines. I work with classification, regression, clustering, deep learning and model evaluation techniques, along with full-stack web development (MERN / Next.js).
 
----
-
-## 🌱 **About Me**  
-- 🔭 Currently working on enhancing **Computer Skills**.  
-- 🌱 Learning **JavaScript** and diving into **Full-Stack Development**.  
-- 💬 Ask me about **C, Java, HTML, CSS, MySQL, MongoDB**.  
-- 📫 Reach me at: **806priyankapaul@gmail.com**
 
 ---
 
