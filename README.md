@@ -17,10 +17,10 @@ My technical foundation includes Python, data structures, and machine learning p
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/arafat1746"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
-  <a href="https://www.kaggle.com/arafat1746"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="30"/></a>
-  <a href="https://wa.me/+8801726847950"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30"/></a>
-  <a href="https://t.me/arafat1746"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30"/></a>
+  <a href="https://www.linkedin.com/in/priyanka62"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
+  <a href="https://www.kaggle.com/priyankapaul62"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="30"/></a>
+  <a href="https://wa.me/+8801721841806"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30"/></a>
+  <a href="https://t.me/Priyanka_806"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30"/></a>
 </p>
 
 ---
